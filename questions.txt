@@ -1,0 +1,255 @@
+mc
+How many FBLA national officers are there?
+2
+4
+7
+9
+3
+
+mc
+What does the acronym 'SLC' stand for?
+Stellar Leaders Cooperative
+State Leadership Competition
+Swinging Locomotive Country
+State Laser Coordinates
+1
+
+mc
+In what area of FBLA Texas is the city of Austin?
+Area 1
+Area 4
+Area 5
+Area 3
+3
+
+tf
+The FBLA Honor Code is an optional standard only applied to some members of FBLA-PBL
+True
+False
+1
+
+tf 
+One of the goals of FBLA-PBL is to facilitate the transition from school to work.
+True
+False
+0
+
+fr
+What charitable organization does FBLA primarily support?
+March of Dimes
+
+fr 
+In what university was the concept of FBLA developed?
+Columbia University
+
+dd
+What kind of attire is acceptable for FBLA activities?
+Business Attire
+Exercise Attire
+Pajamas
+Bugs Bunny Costume
+Business Attire
+
+dd
+Which of these options is NOT an FBLA administrative region?
+Southern Region
+Eastern Region
+Southeastern Region
+Northern Central Region
+Southeastern Region
+
+dd
+What does PBL stand for in FBLA-PBL?
+Power Business Life
+Phi Beta Lambda
+Peru Bravo Lima
+Phi Beta Llama
+Phi Beta Lambda
+
+mc
+What does SLOTS stand for?
+Summer Leadership and Officer Training Summit
+SeaWorld Llamas or T-Rexes Sunday
+Sweet Leading On Taro Slices
+Summer Leaders or Terrible Speakers
+0
+
+dd
+What are the official colors of FBLA-PBL?
+Blue and Red
+Blue and Gold
+Red and Gold
+Red and White
+Blue and Gold
+
+tf
+One person can compete in over 10 events per conference.
+True
+False
+1
+
+tf
+FBLA-PBL began as a collegiate institution.
+True
+False
+0
+
+tf
+FBLA has a division for competitors in middle school
+True
+False
+0
+
+fr
+Who is the founder of FBLA?
+Hamden L. Forkner
+
+mc
+What was the first FBLA State Chapter?
+Nebraska
+New York
+Iowa
+Texas
+2
+
+dd
+What is the minimum amount of members required to start an official FBLA group?
+Ten
+Five
+Six
+Two
+Five
+
+mc
+When is American Enterprise Day?
+Nov 15
+Dec 29
+Sep 27
+Jan 12
+0
+
+fr
+What position keeps minutes during an FBLA meeting?
+Secretary
+
+mc
+What year was the FBLA Middle Division created?
+1998
+2003
+2006
+1996
+3
+
+tf
+Denim is considered business attire for men.
+True
+False
+1
+
+tf
+The 1999 National Leadership Conference was in Chicago, IL
+True
+False
+0
+
+fr
+What does NLC stand for in the context of FBLA?
+National Leadership Conference
+
+dd
+There are ____ specific goals listed in the FBLA bylaws.
+Five
+Seven
+Nine
+Eleven
+Nine
+
+dd
+The ____ usually presides over and conducts meetings.
+President
+Vice-President
+Secretary
+Treasurer
+President
+
+dd
+The ____ usually manages the finances of an FBLA chapter.
+President
+Vice-President
+Secretary
+Treasurer
+Treasurer
+
+dd
+The ____ usually keeps meeting minutes.
+President
+Vice-President
+Secretary
+Treasurer
+Secretary
+
+dd
+The ____ usually assists the president and takes their place if necessary.
+President
+Vice-President
+Secretary
+Treasurer
+Vice-President
+
+fr
+One million bytes of data is called a(n):
+Gigabyte
+
+mc
+What is the intersection of a row and column in a spreadsheet called?
+area
+bound
+cell
+rock
+2
+
+mc
+What is the official currency of China?
+Yen
+Yuan
+Yin
+Yang
+1
+
+fr
+Property you possess that is worth more than your debts is called:
+Capital
+
+tf
+Compound interest can be measured with a linear graph.
+True
+False
+1
+
+tf
+Checks issued by a credit union are called share drafts.
+True
+False
+0
+
+fr
+Name a major credit reporting company.
+Transunion Equifax Experian
+
+mc
+Eight bits are equivalent to how many bytes?
+8
+1
+2
+4
+1
+
+dd
+A ____ keeps malicious elements out of a network
+Shield
+Calculator
+Firewall
+Dam
+2
+
+~
